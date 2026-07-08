@@ -15,8 +15,9 @@ I enjoy building practical cyber security project that demonstrate real-world sk
 ## Projects
 | Project | Description | Repository |
 |---------|-------------|------------|
-| OSINT Investigation | Conducted an OSINT Investigation on a target Organisation | www.github.com/Izzyjnr27/ |
+| OSINT Investigation | Conducted an OSINT Investigation on a target Organisation | www.github.com/Izzyjnr27/osint-project |
 | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | Coming soon |
+| Malware Analysis | Completed a project on Malware Analysis | www.github.com/Izzyjnr27/malware-analysis |
 
 ## Skills
 ### Operating Systems
