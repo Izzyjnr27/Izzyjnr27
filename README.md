@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I am Isioma Israel
 
-<!--
-**Izzyjnr27/Izzyjnr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ##
+I am a cyber security student at NIIT Port Harcourt, passionate about offensive and defensive cyber security.
+I enjoy building practical cyber security project that demonstrate real-world skill in: 
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensic
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Governance Risk And Compliance
 
-Here are some ideas to get you started:
+## Projects
+| Project | Description | Repository |
+|---------|-------------|------------|
+| OSINT Investigation | Conducted an OSINT Investigation on a target Organisation | Coming soon |
+| Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | Coming soon |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Operating Systems
+- Windows
+- Linux
+
+### Networking
+- TCP/IP
+- TNS
+- HTTP
+- FTP
+- SSH
+- TELNET
+
+### Cyber Security Tools
+- Nmap
+- Wireshark
+- BurpSuite
+- Splunk
+- Snort
+- Suricata
+- ELK
+- Git
+- GitHub
+
+## Certifications
+- ISC2 CC (In Progress)
+- CompTIA Security+ (In Progress)
+
+## Education
+-NIIT Port Harcourt: Cyber Security Program
+
+## Contact
+- Email: nnabuifeisioma36@gmail.com
+- Likedln: 
